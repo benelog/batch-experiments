@@ -1,2 +1,2 @@
 # Test projects for Spring-batch
-- retry-tests : 'chunk-completion-policy' or 'commit-interval' with '#{jobParameters[...]}' is ignored when 'retry-limit' exists.
+- [retry-test](retry-test) : 'chunk-completion-policy' or 'commit-interval' with '#{jobParameters[...]}' is ignored when 'retry-limit' exists.
